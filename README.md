@@ -7,6 +7,11 @@
 
 ![Banner](banner-github-mozziegm.jpg)
 
+<div align="center">
+    <h2>Passion for Programming 💻</h2>
+    <p>Hello, I'm MozzieGM! I have a deep passion for programming, with extensive skills in languages like Python and Java, as well as experience in web development and data science. My journey began in 2013 as Mozzie, and in 2024, I adopted 'GM' to mark a new phase in my coding adventures. <br><b>Let's create something amazing together!</p>
+</div>
+
 
 <div align="center">
     <a href="https://www.youtube.com/channel/UCbxKOFn_SjLirHEIKr2bAQw">
@@ -40,3 +45,4 @@
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
 
 </div>
+
