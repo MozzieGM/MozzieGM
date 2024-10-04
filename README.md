@@ -54,13 +54,18 @@
     </a>
 
 
-<h2>Donate Pix 💸</h2>
-<p>Scan the QR code below:</p>
-<img src="qrcode-pix.png" alt="Pix QR Code" width="200px">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
 
-
-<h2>Donate Zelle 💸</h2>
-<p>Scan the QR code below:</p>
-<img src="qrcode-zelle.jpg" alt="Zelle QR Code" width="200px">
+<div>
+        <h2>Donate via Pix 💸</h2>
+        <p>Scan the QR code below:</p>
+        <img src="qrcode-pix.png" alt="Pix QR Code" width="200px">
+        </div>
+        <div>
+<h2>Donate via Zelle 💸</h2>
+            <p>Scan the QR code below:</p>
+            <img src="qrcode-zelle.png" alt="Zelle QR Code" width="200px">
+        </div>
+    </div>
 
 </div>
