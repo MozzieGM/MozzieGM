@@ -54,18 +54,20 @@
     </a>
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; margin-top: 20px;">
+        
 
-<div>
-        <h2>Donate via Pix 💸</h2>
-        <p>Scan the QR code below:</p>
-        <img src="qrcode-pix.png" alt="Pix QR Code" width="100px">
-        </div>
-        <div>
-<h2>Donate via Zelle 💸</h2>
+<div style="text-align: center;">
+            <h2>Donate via Pix 💸</h2>
+            <p>Scan the QR code below:</p>
+            <img src="qrcode-pix.png" alt="Pix QR Code" width="100px">
+</div>
+
+<div style="text-align: center;">
+            <h2>Donate via Zelle 💸</h2>
             <p>Scan the QR code below:</p>
             <img src="qrcode-zelle.png" alt="Zelle QR Code" width="100px">
         </div>
-    </div>
+</div>
 
 </div>
