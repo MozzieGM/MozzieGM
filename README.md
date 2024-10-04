@@ -49,7 +49,14 @@
 <div align="center">
     <h2>Donation 💸</h2>
 
-    <a href="https://buymeacoffee.com/mozziegm" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.discordapp.com/attachments/852002240049709106/1291583519142838393/default-violet.png?ex=6700a063&is=66ff4ee3&hm=2ffe224174ea45f29f6b9d9433a02767311465893a671947ff3e0e771a713558&" alt="Buy Me A Coffee" height="60px" width="217px">
-    </a>
+<a href="https://buymeacoffee.com/mozziegm" target="_blank"><img src="https://cdn.discordapp.com/attachments/852002240049709106/1291583519142838393/default-violet.png?ex=6700a063&is=66ff4ee3&hm=2ffe224174ea45f29f6b9d9433a02767311465893a671947ff3e0e771a713558&" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
+   <h2>Donate Pix 💸</h2>
+
+   Scan the QR code below:  
+   ![Pix QR Code](qrcode-pix.png)
+
+   <h2>Donate Zelle 💸</h2>
+   
+   ![Zelle QR Code](qrcode-zelle.jpg)
 </div>
