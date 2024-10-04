@@ -59,12 +59,12 @@
 <div>
         <h2>Donate via Pix 💸</h2>
         <p>Scan the QR code below:</p>
-        <img src="qrcode-pix.png" alt="Pix QR Code" width="200px">
+        <img src="qrcode-pix.png" alt="Pix QR Code" width="100px">
         </div>
         <div>
 <h2>Donate via Zelle 💸</h2>
             <p>Scan the QR code below:</p>
-            <img src="qrcode-zelle.png" alt="Zelle QR Code" width="200px">
+            <img src="qrcode-zelle.png" alt="Zelle QR Code" width="100px">
         </div>
     </div>
 
