@@ -45,7 +45,11 @@
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
 
 </div>
+
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; margin-top: 20px;">
         
+
 <div style="text-align: center;">
             <h2>Donate via Pix 💸</h2>
             <p>Scan the QR code below:</p>
