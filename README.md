@@ -45,18 +45,7 @@
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
 
 </div>
-
-<div align="center">
-    <h2>Donation 💸</h2>
-    <a href="https://buymeacoffee.com/mozziegm" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.discordapp.com/attachments/852002240049709106/1291583519142838393/default-violet.png?ex=6700a063&is=66ff4ee3&hm=2ffe224174ea45f29f6b9d9433a02767311465893a671947ff3e0e771a713558&" 
-        alt="Buy Me A Coffee" height="60px" width="217px">
-    </a>
-
-
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 40px; margin-top: 20px;">
         
-
 <div style="text-align: center;">
             <h2>Donate via Pix 💸</h2>
             <p>Scan the QR code below:</p>
