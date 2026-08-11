@@ -17,13 +17,13 @@
     <a href="https://www.youtube.com/channel/UCbxKOFn_SjLirHEIKr2bAQw">
         <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
     </a>
-    <a href="https://www.tiktok.com/@detroit.hd">
+    <a href="https://www.tiktok.com/@dev_mozziegm">
         <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok">
     </a>
     <a href="https://www.instagram.com/martinez1209/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://discord.gg/4WbqhbAEfh">
+    <a href="https://discord.gg/KS9PUjH6Xm">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
     </a>
 </div>
@@ -46,17 +46,3 @@
 
 </div>
 
-<div align="center">
-<div >
-<div style="text-align: center;">
-            <h2>Donate via Pix 💸</h2>
-            <p>Scan the QR code below:</p>
-            <img src="qrcode-pix.png" alt="Pix QR Code" width="200px">
-</div>
-<div style="text-align: center;">
-            <h2>Donate via Zelle 💸</h2>
-            <p>Scan the QR code below:</p>
-            <img src="qrcode-zelle.png" alt="Zelle QR Code" width="200px">
-</div>
-</div>
-</div>
